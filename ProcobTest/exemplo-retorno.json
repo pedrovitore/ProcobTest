@@ -1,0 +1,358 @@
+{
+    "code": "000",
+    "message": "Consulta de testes com dados fictícios.",
+    "date": "2019-07-29",
+    "hour": "20:26:23",
+    "revision": "",
+    "server": "38",
+    "content": {
+        "bin": {
+            "existe_informacao": "SIM",
+            "mensagem": "Registro encontrado",
+            "ano_fabricacao": "2011",
+            "ano_modelo": "2012",
+            "categoria": "",
+            "chassi": "AAAA23546879541247",
+            "cnpj_faturado": "11122233344455",
+            "combustivel": "ALCOOL/GASOLINA",
+            "cor": "CINZA",
+            "marca": "CHEVROLET/PRISMA",
+            "municipio": "CURITIBA",
+            "numero_motor": "123456",
+            "placa": "AAA1231",
+            "procedencia": "NACIONAL",
+            "renavam": "1123124456",
+            "situacao": "CIRCULACAO",
+            "tipo": "AUTOMOVEL",
+            "tipo_remarcacao": "NORMAL",
+            "uf": "PR",
+            "gravame": {
+                "agente_financeiro": "",
+                "cnpj_cpf_financiado": "",
+                "data_inclusao": "",
+                "nome_financiado": "",
+                "restricao_financeira": "",
+                "tipo_transacao": ""
+            },
+            "restricoes": [
+                {
+                    "restricao": "ALIENACAO FIDUCIARIA"
+                },
+                {
+                    "restricao": "NADA CONSTA"
+                },
+                {
+                    "restricao": "NADA CONSTA"
+                },
+                {
+                    "restricao": "NADA CONSTA"
+                }
+            ]
+        },
+        "agregados": {
+            "existe_informacao": "SIM",
+            "ano_fabricacao": "2006",
+            "ano_modelo": "2007",
+            "capacidade_de_carga": "0",
+            "capacidade_maxtracao": "190",
+            "capacidade_passgeiro": "5",
+            "chassi": "DSDSDSD556DSD",
+            "cilindradas": "1000",
+            "combustivel": "ALCOOL / GASOLINA",
+            "cor": "BRANCA",
+            "data_limite_restricaotributaria": "",
+            "data_registrodi": "",
+            "data_ultima_atualizacao": "2012-03-09",
+            "eixo_traseiro_diferencial": "",
+            "especie_veiculo": "PASSAGEIRO",
+            "marca": "GM ",
+            "modelo": "CELTA 2P LIFE",
+            "municipio": "CURITIBA",
+            "numero_caixacambio": "123456789",
+            "numero_carroceria": "",
+            "numero_di": "0000000000",
+            "numero_eixos": "0",
+            "numero_faturado": "12345689789",
+            "numero_importadora": "",
+            "numero_motor": "DSD5456",
+            "pesobruto_total": "0",
+            "placa": "AOA6712",
+            "potencia": "70",
+            "procedencia": "NACIONAL",
+            "renavam": "",
+            "segmento": "AUTO",
+            "situacao_chassi": "NORMAL",
+            "situacao_veiculo": "EM CIRCULACAO",
+            "subsegmento": "AU - ENTRADA",
+            "terceiro_eixotipo_carroceria": "",
+            "tipo_docfaturado": "JURIDICA",
+            "tipo_docimportadoratipo_montagem": "",
+            "tipo_veiculo": "AUTOMOVEL",
+            "uf": "PR",
+            "uf_faturado": "RS",
+            "restricoes": [
+                {
+                    "restricao": "SEM RESTRICAO"
+                },
+                {
+                    "restricao": "SEM RESTRICAO"
+                },
+                {
+                    "restricao": "SEM RESTRICAO"
+                },
+                {
+                    "restricao": "SEM RESTRICAO"
+                }
+            ]
+        },
+        "decodificador_chassi": {
+            "existe_informacao": "SIM",
+            "mensagem_resposta": "MARCA/MODELO/ANO IDENTIFICADOS",
+            "chassi": "IDJISDF165456FDF",
+            "origem": "NACIONAL",
+            "regiao_geografica": "BRASIL / PARAGUAI / COLOMBIA / URUGUAI",
+            "pais": "BRASIL",
+            "categoria": "AUTOMOVEL",
+            "marca": "HONDA",
+            "modelo": "CITY LX FLEX",
+            "versao": "LX FLEX",
+            "tipo_carroceria": "SEDAN",
+            "motor": "123456789",
+            "combustivel": "GASOLINA/ALCOOL",
+            "transmissao": "AUTOMATICA",
+            "fabricante": "HONDA",
+            "ano": "2010",
+            "local_fabricacao": "SUMARE / SP",
+            "tipo_motor": ""
+        },
+        "dpvat": {
+            "placa": "AAA0124",
+            "detalhes": [
+                {
+                    "dut": "",
+                    "placa": "AAA0124",
+                    "renavam": "12345678941",
+                    "chassi": "JSDSD535435565",
+                    "nome_proprietario": "FULANO DE TAL",
+                    "documento_proprietario": "01234567897",
+                    "uf": "PR",
+                    "ano_exercicio": "2016",
+                    "data_emissao_guia": "01/02/2016",
+                    "data_processamento": "05/02/2016",
+                    "banco": "BANCO BRADESCO S.A",
+                    "saldo": "105,65"
+                },
+                {
+                    "dut": "",
+                    "placa": "AAA0124",
+                    "renavam": "12345678941",
+                    "chassi": "JSDSD535435565",
+                    "nome_proprietario": "FULANO DE TAL",
+                    "documento_proprietario": "01234567897",
+                    "uf": "PR",
+                    "ano_exercicio": "2015",
+                    "data_emissao_guia": "09/07/2015",
+                    "data_processamento": "10/07/2015",
+                    "banco": "BANCO BRADESCO S.A",
+                    "saldo": "105,65"
+                },
+                {
+                    "dut": "",
+                    "placa": "AAA0124",
+                    "renavam": "12345678941",
+                    "chassi": "JSDSD535435565",
+                    "nome_proprietario": "FULANO DE TAL",
+                    "documento_proprietario": "01234567897",
+                    "uf": "PR",
+                    "ano_exercicio": "2014",
+                    "data_emissao_guia": "03/09/2014",
+                    "data_processamento": "05/09/2014",
+                    "banco": "BANCO DO BRASIL S.A",
+                    "saldo": "105,65"
+                },
+                {
+                    "dut": "",
+                    "placa": "AAA0124",
+                    "renavam": "12345678941",
+                    "chassi": "JSDSD535435565",
+                    "nome_proprietario": "BANCO ITAUCARD S A",
+                    "documento_proprietario": "17192451000170",
+                    "uf": "PR",
+                    "ano_exercicio": "2013",
+                    "data_emissao_guia": "19/08/2013",
+                    "data_processamento": "23/08/2013",
+                    "banco": "BANCO DO BRASIL S.A",
+                    "saldo": "105,65"
+                },
+                {
+                    "dut": "",
+                    "placa": "AAA0124",
+                    "renavam": "12345678941",
+                    "chassi": "JSDSD535435565",
+                    "nome_proprietario": "BANCO ITAUCARD S A",
+                    "documento_proprietario": "17192451000170",
+                    "uf": "PR",
+                    "ano_exercicio": "2012",
+                    "data_emissao_guia": "20/08/2012",
+                    "data_processamento": "24/08/2012",
+                    "banco": "BANCO DO BRASIL S.A",
+                    "saldo": "101,16"
+                }
+            ],
+            "dados_proprietario": [
+                {
+                    "documento": "01234567891",
+                    "tipo_documento": "PF",
+                    "nome": "FULANO DE TAL",
+                    "data_nascimento": "01/01/2000",
+                    "idade": "15",
+                    "signo": "Capricórnio",
+                    "obito": "SIM (2015-01-06)",
+                    "sexo": "F",
+                    "uf": "RS,",
+                    "situacao_receita": "",
+                    "situacao_receita_data": "",
+                    "situacao_receita_hora": ""
+                }
+            ],
+            "endereco_proprietario": [
+                {
+                    "logradouro": "RUA",
+                    "endereco": "SAO CLEMENTE",
+                    "numero": "999",
+                    "cep": "12345678",
+                    "bairro": "CENTRO",
+                    "cidade": "VARJOTA",
+                    "uf": "CE"
+                }
+            ]
+        },
+        "gravames": {
+            "existe_informacao": "SIM",
+            "chassi": "AAAA5555999944441",
+            "dados_gravames": [
+                {
+                    "ano_modelo": "2012",
+                    "remarcacao_chassi": "",
+                    "chassi_retorno": "",
+                    "codigo_agente": "1011",
+                    "cgc_agente": "11232123456547",
+                    "cpfcnpj": "99999999999",
+                    "data_emissao": "30/06/2016",
+                    "data_inclusao_gravame": "30/06/2016",
+                    "data_vigencia_contrato": "27/05/2020",
+                    "nome_agente": "FINANCEIRA SA",
+                    "nome_financiado": "FULANO DA SILVA",
+                    "numero_contrato": "1231234",
+                    "numero_restricao": "9999999",
+                    "placa": "AAA123",
+                    "renavam": "123456789",
+                    "status_veiculo": "VEICULO COM ALIENACAO FIDUCIARIA COM DOCUMENTO JA EMITIDO",
+                    "tipo_restricao": "ALIENACAO FIDUCIARIA",
+                    "uf_gravame": "PR",
+                    "uf_placa": "PR"
+                }
+            ]
+        },
+        "leilao": {
+            "existe_informacao": "SIM",
+            "leiloes": [
+                {
+                    "veiculo": 0,
+                    "leilao": 0,
+                    "lote": "21",
+                    "marca": "PEUGEOT",
+                    "modelo": "106 SOLEIL",
+                    "ano_modelo": "1999",
+                    "ano_fabricacao": "1998",
+                    "placa": "AAA0000",
+                    "chassi": "OPJASIIDHSI6565654",
+                    "cor": "CINZA",
+                    "combustivel": "GASOLINA",
+                    "categoria": "AUTOMOVEL BA",
+                    "geral": "",
+                    "motor": "54453SAS5454",
+                    "quantidade_eixo": 2,
+                    "patio": "",
+                    "leiloeiro": "NOME LEILOEIRO",
+                    "data": "06/07/2002",
+                    "comitente": "COMITENTE",
+                    "cambio": "MANUAL",
+                    "renavam": "123456789"
+                },
+                {
+                    "veiculo": 0,
+                    "leilao": 0,
+                    "lote": "9423",
+                    "marca": "PEUGEOT",
+                    "modelo": "106 SOLEIL 4",
+                    "ano_modelo": "1998",
+                    "ano_fabricacao": "1999",
+                    "placa": "AAA0000",
+                    "chassi": "OPJASIIDHSI6565654",
+                    "cor": "",
+                    "combustivel": "",
+                    "categoria": "",
+                    "geral": "",
+                    "motor": "",
+                    "quantidade_eixo": 0,
+                    "patio": "",
+                    "leiloeiro": "NOME LEILOEIRO",
+                    "data": "06/07/2002",
+                    "comitente": "COMITENTE",
+                    "cambio": "N/I",
+                    "renavam": "123456789"
+                }
+            ],
+            "score": {
+                "pontuacao": "A",
+                "descricao_pontuacao": "APARENTEMENTE INTEIRO",
+                "aceitacao": "90",
+                "percentual_sobre_tabela_referencia": "90",
+                "exige_vistoria_especial": "MENOR PROBABILIDADE"
+            }
+        },
+        "localizador_motor": {
+            "existe_informacao": "SIM",
+            "chassi": "AOLENDF2552153546WE",
+            "numero_motor": "L12346-4548DSD"
+        },
+        "precificador": {
+            "existe_informacao": "SIM",
+            "chassi": "SASASA531654ASA",
+            "origem": "NACIONAL",
+            "regiao": "BRASIL / PARAGUAI / COLOMBIA / URUGUAI",
+            "pais": "BRASIL",
+            "categoria": "AUTOMOVEL",
+            "marca": "GM",
+            "modelo": "CELTA 2P LIFE",
+            "ano": "2007",
+            "carroceria": "HATCH",
+            "versao": "2P LIFE",
+            "combustivel": "",
+            "local_fabricacao": "",
+            "dados_precificacao": {
+                "codigo": "004318-4",
+                "marca": "GM - Chevrolet",
+                "modelo": "Celta Life/ LS 1.0 MPFI 8V FlexPower 3p",
+                "preco_medio": "13.787,00"
+            }
+        },
+        "sinistro": {
+            "existe_informacao": "NAO",
+            "resposta": "NAO CONSTA SINISTRO DE INDENIZACAO INTEGRAL DE COLISAO"
+        },
+        "analise_orientacoes": {
+            "existe_informacao": "SIM",
+            "status": "PERIGO",
+            "analise": [
+                "A análise de risco relativa a esta consulta não verifica: ocorrência de leilão, pagamento de DPVAT, decodificação e precificador de chassi, localizador de motor nem indenização por sinistro (perda total).  Caso necessite que a análise de risco considere todos os fatores relacionados acima, verifique outras opções de consulta.",
+                "Veículo apresenta impedimentos para transferência de propriedade e/ou novos financiamentos. Verifique todas as orientações no campo Orientações ao Cliente."
+            ],
+            "orientacoes": [
+                "Verifique os débitos deste veículo no DETRAN de licenciamento.",
+                "ALERTA: Existe gravame pendente no Detran que não consta no SNG. O financiado deverá entrar em contato com o agente financeiro para solicitar a regularização."
+            ]
+        }
+    }
+}
